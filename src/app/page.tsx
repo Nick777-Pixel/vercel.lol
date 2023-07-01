@@ -48,12 +48,12 @@ export default function Home() {
       </h1>
       <Canvas />
       <span className="fixed left-1/2 -translate-x-1/2 bottom-16 text-neutral-600 text-sm duration-300 hover:text-white">
-        <a target="_blank" href="https://github.com/Hacksore/vercel.lol">
+        <a target="_blank" href="https://thetriangle.vercel.app">
           Sauce
         </a>
       </span>
       <span className="fixed bottom-8 left-1/2 -translate-x-1/2 text-neutral-600 text-sm">
-        © 2069 <span className="-mr-[3px]">▼</span>ercel.lol
+        © 2069 <span className="-mr-[3px]">▼</span>The Triangle Co.
       </span>
     </div>
   );
