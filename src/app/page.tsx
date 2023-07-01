@@ -49,7 +49,7 @@ export default function Home() {
       <Canvas />
       <span className="fixed left-1/2 -translate-x-1/2 bottom-16 text-neutral-600 text-sm duration-300 hover:text-white">
         <a target="_blank" href="https://thetriangle.vercel.app">
-          Sauce
+          777
         </a>
       </span>
       <span className="fixed bottom-8 left-1/2 -translate-x-1/2 text-neutral-600 text-sm">
