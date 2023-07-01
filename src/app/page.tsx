@@ -34,7 +34,7 @@ export default function Home() {
             id="t4"
             className="duration-300 opacity-0 bg-clip-text text-transparent bg-gradient-to-r from-[#FFCC00] to-[#FF2222]"
           >
-            Company
+            Co.
           </span>
         </div>
         <div
