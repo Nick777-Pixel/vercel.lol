@@ -53,7 +53,7 @@ export default function Home() {
         </a>
       </span>
       <span className="fixed bottom-8 left-1/2 -translate-x-1/2 text-neutral-600 text-sm">
-        © 2069 <span className="-mr-[3px]">▼ </span>The Triangle Co.
+        © 2777 <span className="-mr-[3px]">▼ </span>The Triangle Co.
       </span>
     </div>
   );
