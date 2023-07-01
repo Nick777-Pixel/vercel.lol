@@ -8,7 +8,7 @@ import "./globals.css";
 const inter = Inter({ subsets: [] });
 
 export async function generateMetadata(): Promise<Metadata> {
-  const description = "▲ The triangle company";
+  const description = "▲ The Triangle Co.";
   const title = "The Triangle Co.";
   return {
     title,
