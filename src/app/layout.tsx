@@ -9,18 +9,18 @@ const inter = Inter({ subsets: [] });
 
 export async function generateMetadata(): Promise<Metadata> {
   const description = "▲ The triangle company";
-  const title = "vercel.lol";
+  const title = "The Triangle Co.";
   return {
     title,
     description,
     openGraph: {
-      images: ["https://vercel.lol/real-og.png"],
+      images: ["https://thetriangle.vercel.app/real-og.png"],
       description,
       title,
       type: "website",
     },
     twitter: {
-      images: ["https://vercel.lol/real-og.png"],
+      images: ["https://thetriangle.vercel.app/real-og.png"],
       title,
       description,
       card: "summary_large_image",
