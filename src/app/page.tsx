@@ -25,7 +25,7 @@ export default function Home() {
             id="t3"
             className="duration-300 opacity-0 bg-clip-text text-transparent bg-gradient-to-r from-[#4444FF] to-[#FF00FF]"
           >
-            Triangle
+            ▲
           </span>
         </div>
         {/* T4 Stack */}
